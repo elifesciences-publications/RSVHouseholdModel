@@ -1,3 +1,5 @@
+This code is associated with the paper from Brand et al., "Reducing respiratory syncytial virus (RSV) hospitalization in a lower-income country by vaccinating mothers-to-be and their households". eLife, 2020. http://doi.org/10.7554/eLife.47003
+
 # RSVHouseholdModel
 
 Julia 0.6 code for running the RSV Household transmission model (see https://www.biorxiv.org/content/10.1101/569335v1.abstract for preprint).
